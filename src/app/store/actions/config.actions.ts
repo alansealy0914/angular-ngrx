@@ -1,5 +1,7 @@
-import { Action } from '@ngrx/store';
+/***************************************************************/
+/*** config ACTIONS ***/
 
+import { Action } from '@ngrx/store';
 import { IConfig } from '../../models/config.interface';
 
 export enum EConfigActions {
